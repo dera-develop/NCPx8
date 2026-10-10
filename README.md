@@ -1,5 +1,5 @@
 # 8bit-NANDCPU
-自作CPUというものを知ってから，初めて作ったNANDCPUです．  
+自作CPUというものを知ってから，約半年前に初めて作ったNANDCPUです．  
 SNSで自作したCPUを発信している人を見つけて，作りたくなったので作りました．  
 [Logisim-Evolution](https://github.com/logisim-evolution/logisim-evolution)上で動作します．
 ![CPU](./img/CPU.png)
